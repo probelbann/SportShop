@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-﻿SIMULATORS ExerciseBike 10 100
+SIMULATORS ExerciseBike 10 100
 SIMULATORS RunningTrack 8 100
 SIMULATORS Dumbbells 50 100
 CLOTHING Shorts 100 100
@@ -7,13 +6,3 @@ CLOTHING T-shirt 100 100
 FOOTWEAR Sneakers 50 100
 FOOTWEAR Flip-flops 50 100
 SWIMMING Melting 30 100
-=======
-﻿Simulators ExerciseBike 10 100
-Simulators RunningTrack 8 100
-Simulators Dumbbells 50 100
-Clothing Shorts 100 100
-Clothing T-shirt 100 100
-Footwear Sneakers 50 100
-Footwear Flip-flops 50 100
-Swimming Melting 30 100
->>>>>>> origin/master
