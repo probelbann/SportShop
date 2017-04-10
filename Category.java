@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package com.company;
 
 public enum Category {
@@ -15,3 +16,13 @@ public enum Category {
         return null;
     }
 }
+=======
+package com.company;
+
+public enum Category {
+    SWIMMING,
+    FOOTWEAR,
+    CLOTHING,
+    SIMULATORS
+}
+>>>>>>> origin/master
